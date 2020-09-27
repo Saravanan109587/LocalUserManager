@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbi1NhD0TYCbGNYH5e7tNFl6uTss06WnAql1ufHEpzlDvXg1P7n4WHAPxw8HolL3APY1LhUUM0EdPt2BBObK4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\n00001s\\source\\repos\\CreateUser\\CreateUser\\CreateUser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\n00001s\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.codedom\\4.7.0\\system.codedom.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.directoryservices\\4.7.0\\system.directoryservices.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.directoryservices.accountmanagement\\4.7.0\\system.directoryservices.accountmanagement.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.directoryservices.protocols\\4.7.0\\system.directoryservices.protocols.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.io.filesystem.accesscontrol\\4.7.0\\system.io.filesystem.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.management\\4.7.0\\system.management.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\n00001s\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
