@@ -10,6 +10,7 @@ namespace CreateUser
         public static string Name;
         public static string Pass;
 
+
         static void Main(string[] args)
         {
 
